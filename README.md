@@ -2,7 +2,9 @@
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
-#Hello 👋
+
+# Hello 👋
+
 Thanks for stopping by!
 
 ## Brief
