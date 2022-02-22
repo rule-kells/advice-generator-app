@@ -26,7 +26,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 * clamp()
 * CSS custom props (variables)
 * JavaScript
-* API's
+* APIs
 * JSON
 
 ##What I have Learned
