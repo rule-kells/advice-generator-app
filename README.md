@@ -35,4 +35,4 @@ This is my first APIs project and I learned a lot! It was not only fun but great
 ## My Tools
 1. Figma [Figma](https://www.figma.com/ "Figma").
 2. Firefox Developer Edition [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/ "Firefox Developer Edition").
-3. VSCode [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code").
+3. Visual Studio Code [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code").
